@@ -13,7 +13,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para repo
 
 # Descritivo de cada script
 
-- temp clearner => Realiza a limpeza da máquina em que for executada excluindo os arquivos temporários.
+[Temp Clearner](Infra/temp-cleaner.ps1) => Realiza a limpeza da máquina em que for executada excluindo os arquivos temporários.
 
 # Licença
 Este projeto está licenciado sob a [MIT License].
