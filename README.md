@@ -11,5 +11,9 @@ Documentação: Guias detalhados e tutoriais passo a passo para configurar e ger
 Como Contribuir
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para reportar bugs ou sugerir melhorias, e enviar pull requests com novas funcionalidades ou correções.
 
+# Descritivo de cada script
+
+- temp clearner => Realiza a limpeza da máquina em que for executada excluindo os arquivos temporários.
+
 # Licença
 Este projeto está licenciado sob a [MIT License].
