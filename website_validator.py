@@ -37,5 +37,5 @@ def show_error_popup(url):
 
 while True:
     check_website(url)
-    # Espera 15 minutos (900 segundos) antes de checar novamente
-    time.sleep(2)
+    # Espera 1 minutos (60 segundos) antes de checar novamente
+    time.sleep(60)
