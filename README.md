@@ -14,6 +14,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para repo
 # Descritivo de cada script
 
 [Temp Clearner](./temp-cleaner.ps1) => Realiza a limpeza da máquina em que for executada excluindo os arquivos temporários.
-
+[Website Validator](./website-validator.py) => Realiza testes de conexão com um site especifico e retorna um popup com a resposta ("ok" ou "não ok"), repetindo de tempos em tempos.
 # Licença
 Este projeto está licenciado sob a [MIT License].
